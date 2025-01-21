@@ -9,7 +9,6 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-
   "dependencies": {
     "@aws-amplify/ui-react": "^6.5.5",
     "@aws-amplify/ui-vue": "^4.2.27",
